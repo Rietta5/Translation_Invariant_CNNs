@@ -1,0 +1,14 @@
+tensorflow
+numpy
+opencv-python
+pillow
+tqdm
+pandas
+scipy
+torch
+piq
+scikit-learn
+wandb
+matplotlib
+ipython
+git+https://github.com/jorgvt/iqadatasets.git
